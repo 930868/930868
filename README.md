@@ -8,7 +8,8 @@ I like to code anything I can imagine, mostly based around games, modding and se
 ### Current Technologies
 
   - Roblox Studio
-  - Minecraft Datapacks & CC:Tweaked
+  - Minecraft Texture/Data Packs 
+  - CC:Tweaked
   - C/C++
   - Raspberry Pi & Arduino
 ---
