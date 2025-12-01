@@ -7,15 +7,17 @@ I like to code anything I can imagine, mostly based around games, modding and se
 ---
 ### Current Technology
 
-  - 4+ years of Roblox Studio
-  - 4+ years with Minecraft datapacks
-  - 2+ years of C/C++
+  - Roblox Studio
+  - Minecraft Datapacks & CC:Tweaked
+  - C/C++
+  - Raspberry Pi & Arduino
 ---
 ### About Me
 
-  - I like soccer and volleyball
-  - I like anime and currently learning N5 japanese.
-
+  - 🏐 I like soccer and volleyball 
+  - 🎹 I play the piano (kinda bad tho) 
+  - 🏯 I like anime and I'm currently learning N5 japanese 
+  - 📖 I love reading, science and how the world actually works
 
 <!--
 **930868/930868** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
