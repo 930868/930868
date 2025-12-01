@@ -5,7 +5,7 @@ I'm FacelessDev, a 2nd year software engineer student in Spain.
 I like to code anything I can imagine, mostly based around games, modding and servers. 
 
 ---
-### Current Technology
+### Current Technologies
 
   - Roblox Studio
   - Minecraft Datapacks & CC:Tweaked
