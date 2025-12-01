@@ -5,13 +5,13 @@ I'm FacelessDev, a 2nd year software engineer student in Spain.
 I like to code anything I can imagine, mostly based around games, modding and servers. 
 
 ---
-# Current Technology
+### Current Technology
 
   - 4+ years of Roblox Studio
   - 4+ years with Minecraft datapacks
   - 2+ years of C/C++
 ---
-# About Me
+### About Me
 
   - I like soccer and volleyball
   - I like anime and currently learning N5 japanese.
