@@ -26,4 +26,4 @@ I like to code anything I can imagine, mostly based around games, modding and se
   - Raspberry Pi Cluster system
   - Turn based system for Roblox Studio
   - Low-Level memory management in Roblox Studio using the Buffer API
-  - GUI for Linux ARM server stats in real time in C++
+  - GUI for Linux ARM server stats
