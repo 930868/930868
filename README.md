@@ -24,6 +24,6 @@ I like to code anything I can imagine, mostly based around games, modding and se
 ### Current Projects
 
   - Raspberry Pi Cluster system
-  - Turn based system for Roblox Studio
+  - Game developer in a small project
   - Low-Level memory management in Roblox Studio using the Buffer API
   - GUI for Linux ARM server stats
