@@ -26,4 +26,4 @@ I like to code anything I can imagine, mostly based around games, modding and se
   - Raspberry Pi Cluster system
   - Game developer in a small project inspired in SCP universe
   - Low-Level memory management in Roblox Studio using the Buffer API
-  - x86 server hosting
+  - x86 server hosting with Docker
