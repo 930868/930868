@@ -7,12 +7,12 @@ I like to code anything I can imagine, mostly based around games, modding and se
 ---
 ### Current Technologies
 
-  - Roblox Studio
   - Lua/Luau
-  - Minecraft Data Packs
-  - CC:Tweaked
+  - Dockerized Server Hosting
+  - Basic Cybersecurity
+  - Basic Reverse Engineering
   - C/C++
-  - Raspberry Pi & Arduino
+  - Raspberry Pi & Microcontrollers
 ---
 ### About Me
 
