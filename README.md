@@ -2,7 +2,7 @@
 
 I'm FacelessDev, a 2nd year software engineer student in Spain.
 
-I like to code anything I can imagine, mostly based around games, modding and servers. 
+I like to code anything I can imagine, mostly based around games and cybersecurity.
 
 ---
 ### Current Technologies
@@ -10,7 +10,6 @@ I like to code anything I can imagine, mostly based around games, modding and se
   - Lua/Luau
   - Dockerized Server Hosting
   - Basic Cybersecurity
-  - Basic Reverse Engineering
   - C/C++
   - Raspberry Pi & Microcontrollers
 ---
@@ -18,12 +17,12 @@ I like to code anything I can imagine, mostly based around games, modding and se
 
   - 🏐 I like soccer and volleyball 
   - 🎹 I play the piano
-  - 🏯 I like anime and I'm currently learning N5 japanese 
-  - 📖 I love reading, science and how the world actually works
+  - 📖 I love reading from fantasy novels to science papers
+  - 
 ---
 ### Current Projects
 
   - Raspberry Pi Cluster system
   - ESP32 Marauder & Bruce Firmwares usage and expansion modules with CYD
   - CPTS & CWPE cybersecurity certifications
-  - x86 server hosting with Docker
+  - x86 server hosting with Docker and IDS/IPS
