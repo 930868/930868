@@ -15,14 +15,16 @@ I like to code anything I can imagine, mostly based around games and cybersecuri
 ---
 ### About Me
 
-  - 🏐 I like soccer and volleyball 
-  - 🎹 I play the piano
-  - 📖 I love reading from fantasy novels to science papers
-  - 
+  - 🏐 Playing volleyball and athlete rutines
+  - 🎹 5 years of piano experience
+  - 📖 From fantasy novels to science papers
+  - 🌟 Lighting systems with Daslight and QLC+
+
 ---
 ### Current Projects
 
-  - Raspberry Pi Cluster system
-  - ESP32 Marauder & Bruce Firmwares usage and expansion modules with CYD
+  - ESP32 Marauder & Bruce firmware
   - CPTS & CWPE cybersecurity certifications
   - x86 server hosting with Docker and IDS/IPS
+  - Raspberry Pi cluster system
+  - QLC+ lighting console
