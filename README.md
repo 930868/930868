@@ -15,7 +15,7 @@ I like to code anything I can imagine, mostly based around games and cybersecuri
 ---
 ### About Me
 
-  - 🏐 Playing volleyball and athlete rutines
+  - 🏐 Playing volleyball and following athlete routine
   - 🎹 5 years of piano experience
   - 📖 From fantasy novels to science papers
   - 🌟 Lighting systems with Daslight and QLC+
