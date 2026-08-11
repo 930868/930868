@@ -24,6 +24,6 @@ I like to code anything I can imagine, mostly based around games, modding and se
 ### Current Projects
 
   - Raspberry Pi Cluster system
-  - Game developer in a small project inspired in SCP universe
-  - Cybersecurity and reverse engineering basics
+  - ESP32 Marauder & Bruce Firmwares usage and expansion modules with CYD
+  - Penetration Testing in Wi-if and Services
   - x86 server hosting with Docker
