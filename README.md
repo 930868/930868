@@ -25,5 +25,5 @@ I like to code anything I can imagine, mostly based around games, modding and se
 
   - Raspberry Pi Cluster system
   - ESP32 Marauder & Bruce Firmwares usage and expansion modules with CYD
-  - Penetration Testing in Wi-if and Services
+  - CPTS & CWPE cybersecurity certifications
   - x86 server hosting with Docker
