@@ -2,7 +2,7 @@
 
 I'm FacelessDev, a third year software engineer student in Spain.
 
-I like to code anything I can imagine, mostly based around games and cybersecurity.
+I like to code anything I can imagine, mostly based around servers and cybersecurity.
 
 ---
 ### Current Technologies
