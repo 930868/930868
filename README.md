@@ -7,17 +7,16 @@ I like to code anything I can imagine, mostly based around games and cybersecuri
 ---
 ### Current Technologies
 
-  - Lua/Luau
   - Dockerized Server Hosting
-  - Basic Cybersecurity
+  - Basic Cybersecurity & OSINT
   - C/C++
   - Raspberry Pi & Microcontrollers
 ---
 ### About Me
 
-  - 🏐 Playing volleyball and following athlete routine
+  - 🏐 Playing volleyball and following athlete routines
   - 🎹 5 years of piano experience
-  - 📖 From fantasy novels to science papers
+  - 📖 Reading from fantasy novels to science papers
   - 🌟 Lighting systems with Daslight and QLC+
 
 ---
