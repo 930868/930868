@@ -1,6 +1,6 @@
 ## Hi 🤓
 
-I'm FacelessDev, a 2nd year software engineer student in Spain.
+I'm FacelessDev, a third year software engineer student in Spain.
 
 I like to code anything I can imagine, mostly based around games and cybersecurity.
 
