@@ -23,7 +23,7 @@ I like to code anything I can imagine, mostly based around servers and cybersecu
 ### Current Projects
 
   - ESP32 Marauder & Bruce firmware
-  - CPTS & CWPE cybersecurity certifications
+  - CJCA & CPTS cybersecurity certifications
   - x86 server hosting with Docker and IDS/IPS
   - Raspberry Pi cluster system
   - QLC+ lighting console
